@@ -1,0 +1,100 @@
+\documentclass[12pt]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{graphicx}
+
+\begin{document}
+\title{Cahier des charges utilisateur}
+\author{Yoll Mu Krow}
+
+\maketitle
+
+\begin{abstract}
+	Ceci est le cahier des charges du projet LiSA créée le samedi 18 mai et développé par Yoll Mu Krow.
+	Le but de ce projet, en plus de continuer à m'entrainer avec les différentes utilisations et créations web. Est de créer un logiciel (comprenant, Base de données, interface web et serveur) qui permettra à terme de gérer toute les oeuvres vu, lu, désiré par un utilisateur et de les classer.
+\end{abstract}
+\newpage
+\tableofcontents
+\newpage
+
+\section{Le Projet LiSA}
+\textbf{Principe}
+Comme dit plus haut, ce projet à pour but de créer une interface web qui permettra à un utilisateur de gérer/stocker/commenté, les différentes oeuvres qu'il à vu, lu ou qu'il désire voire, ...
+\textbf{Ces fonctionnalités (V1)}
+nb: C'est liste n'est pas exhaustive et pourra être modifier au fur et a mesure que les idées viennent.
+Définition Oeuvres : Les oeuvres cités sont pour l'instant, des livres, animés, mangas, films, musiques.
+
+\begin{itemize}
+	\item Créer un compte
+	\item Se connecter au compte
+	\item Ajouter des œuvres 
+	\item Modifier des œuvres
+	\item Supprimer des œuvres
+	\item Commenter une oeuvre
+	\item Noter une oeuvre
+	\item Pouvoir cliquer sur une oeuvre et être rediriger sur la page correspondante
+	\item Ordonner les oeuvres
+	\item Classer les oeuvres selon différent critères (genre/type/état/...)
+\end{itemize}
+Une compatibilités pour smartphone peut être envisagé.
+
+\section{Les technologies}
+\textbf{Organisation du logiciel}
+Ce logiciel pourra ce trouver sur plusieurs formes:
+\begin{itemize}
+	\item Modèle Vue Contrôleur 
+	\item Site web classique + serveur
+	\item Logiciel + Page web + Base de données
+\end{itemize}
+
+\textbf{Les Frameworks}
+Les frameworks pouvant être implémenté sont les suivants: 
+\begin{itemize}
+	\item JEE
+	\item Django
+	\item ASP.NET MVC
+	\item ASP.NET
+	\item Symphony
+	\item Node.js
+\end{itemize}
+
+\textbf{Les langages}
+Les langages pouvant être utilisé sont les suivants : 
+\begin{itemize}
+	\item C++
+	\item PHP
+	\item Python
+	\item Ruby
+	\item HTML/CSS
+	\item java
+	\item javascript
+\end{itemize}
+
+\section{Technologie retenue}
+La technologie retenue est : site web classique + base de données avec comme langage HTML/CSS, php, javascript et phpmyadmin pour la base de données.
+Le framework retenue est : ASP.NET MVC
+\textbf{information supplémentaire}
+Ce logiciel sera compatible sur firefox et chrome. Les compatibilités IE et Edge ne seront pas prise en compte dans le développement.
+Les normes web W3c seront respecté.
+
+\section{Organisation du projet}
+Ce projet sera découpé en plusieurs jalon.
+Tout les jalons seront définis plus tard ...
+\begin{itemize}
+	\item Jalon 1 : Création de la base de données
+	\item Jalon 2 : Création de la V1 du site
+	\item Jalon 3 : Création de la V1 du script PHP
+	\item Jalon 4 : Connexion entre le script et la base de données
+	\item Jalon 5 : Amélioration des pages web (insertion des différentes fonctionnalités) + ajout du CSS
+	\item Jalon 6 : Création d'un script de remplissage de la base
+	\item Jalon 7 : ?
+	\item Jalon Bonus : Amélioration du CSS + ajout du script d'animation JavaScript
+	\item Jalon extra bonus : Ajout compatibilité smartphone Android
+\end{itemize}
+
+\section{Conclusion}
+Durée estimé du projet totale : 2-3 mois
+
+\end{document}
