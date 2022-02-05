@@ -9,7 +9,8 @@ Objectif du projet : Permettre une centralisation locale de plusieurs types d'oe
 - prévenir sous forme de notification lors de la sortie d'une oeuvre, d'un épisode ou d'un film mis en favoris.
 - Créer des listes de recommendation et les envoyer à des contacts.
 
-Anglais : 
+English : 
+
 Status: Writing of the requirements
 
 Project objective: To allow a local centralization of several types of work (book, music, painting, film, series, ...). The software will be able to :
