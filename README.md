@@ -9,7 +9,7 @@ Objectif du projet : Permettre une centralisation locale de plusieurs types d'oe
 - prévenir sous forme de notification lors de la sortie d'une oeuvre, d'un épisode ou d'un film mis en favoris.
 - Créer des listes de recommendation et les envoyer à des contacts.
 
-English : 
+English
 
 Status: Writing of the requirements
 
