@@ -3,7 +3,7 @@ Français
 
 Statut : Ecriture du cahier des besoins
 
-Objectif du projet : Permettre une centralisation locale de plusieurs types d'oeuvre (livre, musique, peinture, film, série, ...). Le logiciel pourra : 
+Objectif du projet : Permettre une centralisation locale de plusieurs types d'oeuvre (livre, musique, film, série, ...). Le logiciel pourra : 
 - classer chaque oeuvre.
 - Faire des recommandationss.
 - Prévenir sous forme de notification lors de la sortie d'une oeuvre, d'un épisode ou d'un film mis en favoris.
@@ -13,7 +13,7 @@ English
 
 Status: Writing of the requirements
 
-Project objective: To allow a local centralization of several types of work (book, music, painting, film, series, ...). The software will be able to :
+Project objective: To allow a local centralization of several types of work (book, music, film, series, ...). The software will be able to :
 
 - classify each item.
 - Make recommendations.
